@@ -29,6 +29,7 @@ Beautifully Modular: Easily extend or swap out extractors and parsers to meet yo
 Privacy-First: All parsing and AI happens locally—no third-party cloud upload!
 
 Custom Prompting: Tailor the LLM instructions for your domain-specific parsing challenges.
+
 ---
 📁 Project Structure
 
@@ -60,6 +61,7 @@ Tesseract OCR ([download])
 Poppler ([download])
 
 Confirm all tool paths in config.py and pdf / docx paths in main.py
+
 ---
 2. Clone & Install
 text
@@ -75,6 +77,7 @@ TESSERACT_PATH
 POPLER_PATH
 
 Ollama host/model if needed
+
 ---
 4. Run!
 text
