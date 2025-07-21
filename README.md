@@ -64,10 +64,13 @@ Confirm all tool paths in config.py and pdf / docx paths in main.py
 
 ---
 2. Clone & Install
-text
-git clone <[YOUR_REPO_URL](https://github.com/W4RG0Dpk/HuntsJob)>
-cd resume_parser
-pip install -r requirements.txt
+
+        git clone <https://github.com/W4RG0Dpk/HuntsJob>
+        
+        cd resume_parser
+        
+        pip install -r requirements.txt
+
 ---
 3. Configure
 Edit config.py and fill in absolute paths for:
