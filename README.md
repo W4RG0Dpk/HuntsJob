@@ -30,9 +30,6 @@ Custom Prompting: Tailor the LLM instructions for your domain-specific parsing c
     ├── parsers/
     │   └── ollama_parser.py   # AI resume structuring logic
     │
-    ├── utils/
-    │   └── helpers.py         # Helper methods (future use)
-    │
     ├── requirements.txt
     └── README.md
   
