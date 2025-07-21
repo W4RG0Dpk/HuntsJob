@@ -1,0 +1,18 @@
+# requirements.txt for Resume Parser
+
+pdf2image>=1.16.3
+pytesseract>=0.3.10
+python-docx>=0.8.11
+requests>=2.31.0
+
+"""
+This file specifies only Python packages. You must also install the following manually:
+
+Tesseract-OCR (external dependency for OCR)
+
+Poppler-utils (for PDF to image conversion)
+
+Ollama (to run local LLaMA 3 model parsing)
+
+Be sure to configure the exact file paths for Tesseract and Poppler in your config.py after these are installed on your system.
+"""
