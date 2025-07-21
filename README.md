@@ -17,23 +17,24 @@ Privacy-First: All parsing and AI happens locally—no third-party cloud upload!
 Custom Prompting: Tailor the LLM instructions for your domain-specific parsing challenges.
 
 📁 Project Structure
-  resume_parser/
-  │
-  ├── main.py                # Entrypoint; orchestrates extraction & parsing
-  ├── config.py              # Paths for OCR, Poppler, Ollama, model config
-  │
-  ├── extractors/
-  │   ├── pdf_extractor.py   # PDF (with OCR) extraction logic
-  │   └── docx_extractor.py  # Docx (Word) file extraction logic
-  │
-  ├── parsers/
-  │   └── ollama_parser.py   # AI resume structuring logic
-  │
-  ├── utils/
-  │   └── helpers.py         # Helper methods (future use)
-  │
-  ├── requirements.txt
-  └── README.md
+
+    resume_parser/
+    │
+    ├── main.py                # Entrypoint; orchestrates extraction & parsing
+    ├── config.py              # Paths for OCR, Poppler, Ollama, model config
+    │
+    ├── extractors/
+    │   ├── pdf_extractor.py   # PDF (with OCR) extraction logic
+    │   └── docx_extractor.py  # Docx (Word) file extraction logic
+    │
+    ├── parsers/
+    │   └── ollama_parser.py   # AI resume structuring logic
+    │
+    ├── utils/
+    │   └── helpers.py         # Helper methods (future use)
+    │
+    ├── requirements.txt
+    └── README.md
   
 🚀 Quickstart
 1. Prerequisites
