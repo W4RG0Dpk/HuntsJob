@@ -1,5 +1,6 @@
 # HuntsJob
 Internship project
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Tesseract OCR](https://img.shields.io/badge/OCR-Tesseract-green)
 ![Poppler](https://img.shields.io/badge/PDF-Poppler-orange)
