@@ -1,5 +1,6 @@
 # HuntsJob
 Internship project
+![Python](https://img.shields.io/badge/Pact](https://img.shields.io/badge/OCR-Tesseract-lightgreyields.io/badge/PDF-Poppler.shields.io/badge/Ollama-LLa://img.shields.io/badge/ParserSupport](https://img.shields.io/badge/FileTypes-PDF--DOCimg.shields.io/badge/Privacy](https://img.shields.io/badge/Architecture-Modular Welcome](https://img.shields.io/badge/Contributions-Welcome://img.shields.io/badge/Status 
 📝 Resume Parser — Intelligent Modular Resume Extraction
 Welcome to Resume Parser, a robust, modular Python utility to rapidly extract, structure, and empower your resume data pipeline. Power through heaps of CVs with clean OCR, versatile file support, and bleeding-edge AI parsing — all right on your local machine!
 
